@@ -1,0 +1,8 @@
+[init]
+	defaultBranch = main
+[user]
+	name = Simon Perdrisat
+	email = 
+[core]
+	editor = sublime
+	excludesfile = /Users/simon/.gitignore_global
