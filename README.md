@@ -1,6 +1,6 @@
-# dotfiles (Minimal CLI config)
+# Dotfiles
 
-MacOS dotfile for the built-in ZSH shell and Terminal.app
+Dotfile I use on MacOS (ZSH and Terminal.app). Easy to understand (for humans) and to compute (for machines).
 
 # Installation
 1) Copy the files in your home 
@@ -10,4 +10,4 @@ MacOS dotfile for the built-in ZSH shell and Terminal.app
 
 # What it does?
 
-Read the config files. They are simple.
+Read the config files (take 1 minute or less).
