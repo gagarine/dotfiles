@@ -1,8 +1,6 @@
-# dotfiles
+# dotfiles (minimal)
 
-My home dotfile config on MacOS with ZSH shell.
-
-I keep things minimal and simple.
+MacOS dotfile for the built-in ZSH shell and Terminal.app
 
 # Installation
 1) Copy the files in your home 
