@@ -1,6 +1,8 @@
 # Dotfiles
 
-Dotfile I use on MacOS (ZSH and Terminal.app). Easy to understand (for humans) and to compute (for machines).
+Dotfile I use on MacOS (ZSH and Terminal.app).
+
+Easy to understand (for humans) and to compute (for machines)!
 
 # Installation
 1) Copy the files in your home 
